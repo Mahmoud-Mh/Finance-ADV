@@ -27,7 +27,7 @@ A simple Laravel-based application to track incomes and expenses, allowing users
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/your-username/expense-tracker.git
+git clone https://github.com/Mahmoud-Mh/expense-tracker.git
 cd expense-tracker
 ```
 
@@ -145,8 +145,8 @@ This project is open-source and available under the MIT License.
 If you have any questions or feedback, feel free to reach out:
 
 - Name: Mahmoud
-- Email: your-email@example.com
-- GitHub: [Your GitHub Profile](https://github.com/your-username)
+- Email: mahmoud.mouzoun@epitech.eu
+- GitHub: [Your GitHub Profile](https://github.com/Mahmoud-Mh)
 
 ---
 
